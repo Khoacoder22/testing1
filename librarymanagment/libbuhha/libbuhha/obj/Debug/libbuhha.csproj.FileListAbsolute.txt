@@ -1,0 +1,11 @@
+D:\librarymanagment\libbuhha\libbuhha\bin\Debug\libbuhha.exe.config
+D:\librarymanagment\libbuhha\libbuhha\bin\Debug\libbuhha.exe
+D:\librarymanagment\libbuhha\libbuhha\bin\Debug\libbuhha.pdb
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.csproj.AssemblyReference.cache
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.custom.RJTextBox.resources
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.Properties.Resources.resources
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.csproj.GenerateResource.cache
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.csproj.CoreCompileInputs.cache
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.exe
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.pdb
+D:\librarymanagment\libbuhha\libbuhha\obj\Debug\libbuhha.Form1.resources

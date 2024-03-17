@@ -1,0 +1,12 @@
+D:\librarymanagment\library\library\bin\Debug\library.exe.config
+D:\librarymanagment\library\library\bin\Debug\library.exe
+D:\librarymanagment\library\library\bin\Debug\library.pdb
+D:\librarymanagment\library\library\obj\Debug\library.csproj.AssemblyReference.cache
+D:\librarymanagment\library\library\obj\Debug\library.Properties.Resources.resources
+D:\librarymanagment\library\library\obj\Debug\library.csproj.GenerateResource.cache
+D:\librarymanagment\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\librarymanagment\library\library\obj\Debug\library.exe
+D:\librarymanagment\library\library\obj\Debug\library.pdb
+D:\librarymanagment\library\library\obj\Debug\library.Form1.resources
+D:\librarymanagment\library\library\obj\Debug\library.custome.textbox.resources
+D:\librarymanagment\library\library\obj\Debug\CustomControls.RJControls.RJTextBox.resources
